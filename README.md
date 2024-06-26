@@ -99,5 +99,3 @@ The script performs the following steps:
 This script is open source and available under the [MIT License](LICENSE).
 
 ---
-
-Feel free to adjust the repository URL and other details as necessary. This README provides an overview of the script, its prerequisites, usage instructions, and a summary of what the script does.
